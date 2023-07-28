@@ -1,0 +1,29 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+
+    body{
+        background-color: aliceblue;
+        font-family: 'praise' sans-serif;
+    }
+
+    header {
+        background-color: black;
+        color: white;
+        max-width: 450px;
+        text-align: center; 
+    }
+
+    header h1 {
+        font-family: 'Praise' sans-serif;
+    }
+
+    main {
+        max-width: 400px;
+    }
+
+    footer {
+        background-color: black;
+        color:white;
+        text-align: center;
+    }
+    

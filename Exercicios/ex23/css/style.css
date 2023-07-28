@@ -1,0 +1,238 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+    position: relative;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+
+thead,
+tfoot {
+    background-color: #383838;
+    color: white;
+}
+
+thead > tr > th {
+    position: sticky;
+    top:-1px;
+    background-color: #383838;
+}
+
+tbody > tr:nth-child(2n) {
+    background-color: lightgrey;
+}
+
+th{
+    width: 50%;
+}
+
+td.num {
+    text-align: right;
+}
+
+td.img1 {
+    background-image: url('../img_bandeiras/26-sao-paulo.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+    
+}
+
+td.img2 {
+    background-image: url('../img_bandeiras/20-rio-de-janeiro.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img3 {
+    background-image: url('../img_bandeiras/14-minas-gerais.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img4 {
+    background-image: url('../img_bandeiras/06-bahia.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img5 {
+    background-image: url('..//img_bandeiras/22-rio-grande-do-sul.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img6 {
+    background-image: url('../img_bandeiras/17-parana.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img7 {
+    background-image: url('../img_bandeiras/18-pernambuco.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img8 {
+    background-image: url('../img_bandeiras/07-ceara.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img9 {
+    background-image: url('../img_bandeiras/15-para.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img10 {
+    background-image: url('../img_bandeiras/11-maranhao.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img11 {
+    background-image: url('../img_bandeiras/25-santa-catarina.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img12 {
+    background-image: url('../img_bandeiras/10-goias.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img13 {
+    background-image: url('../img_bandeiras/16-paraiba.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img14 {
+    background-image: url('../img_bandeiras/09-espirito-santo.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img15 {
+    background-image: url('../img_bandeiras/05-amazonas.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img16 {
+    background-image: url('../img_bandeiras/21-rio-grande-do-norte.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img17 {
+    background-image: url('../img_bandeiras/03-alagoas.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img18 {
+    background-image: url('../img_bandeiras/12-mato-grosso.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img19 {
+    background-image: url('../img_bandeiras/19-piaui.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img20 {
+    background-image: url('../img_bandeiras/08-distrito.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img21 {
+    background-image: url('../img_bandeiras/13-mato-grosso-do-sul.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img22 {
+    background-image: url('../img_bandeiras/27-sergipe.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img23 {
+    background-image: url('../img_bandeiras/23-rondonia.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img24 {
+    background-image: url('../img_bandeiras/28-tocantins.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img25 {
+    background-image: url('../img_bandeiras/02-acre.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img26 {
+    background-image: url('../img_bandeiras/04-amapa.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
+
+td.img27 {
+    background-image: url('../img_bandeiras/24-roraima.png');
+    background-size: cover;
+    width: 15vh;
+    height: 15vh;
+}
